@@ -1,0 +1,21 @@
+
+body  {
+    background: cadetblue;
+}
+h1  {
+    font-size: 32;
+    text-align: center;
+    color: black;
+}
+p   {
+    font-size: 16pt;
+    text-align: center;
+    color: black;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
